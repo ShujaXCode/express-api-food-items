@@ -1,0 +1,14 @@
+{
+  "name": "express-api-food-items",
+  "version": "1.0.0",
+  "description": "API for fetching food items with descriptions and merged data",
+  "main": "app.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "author": "",
+  "license": "ISC"
+}
